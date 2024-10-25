@@ -23,8 +23,13 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-With over ten years of experience in product management, I have built and launched products across multiple domains and industries, from video streaming and eSIM connectivity to developer tools used by millions of users daily. I have a passion for understanding user needs, delivering value, and solving complex problems with innovative solutions.
+With over twenty years of experience in forestry engineering, but mainly focused on management, that sent me that the geospatial rabbit hole, specializing in FOSS4G tools. On 2005 try to start GIS FOSS4G startup, and failed, started working in my trade, and on 2012 started another startup with some partners and it’s still going. Right now mainly work in geospatial and land management with an increasing dab of data management. I have a passion for understanding problems and work out innovative solutions so I can leisure or procrastinate longer and better.
 
-Currently, I am a principal product manager at Docker, where I focus on improving the lives of developers worldwide. I work closely with engineering teams, business stakeholders, and senior management to define and execute the product vision and strategy. I mentor other PMs, or people that want to get into Product and help them with my experience. Additionally, I am a startup advisor, helping early-stage startups with their product and go-to-market strategies. I enjoy writing and sharing my insights and learnings on product management and development, and I welcome any feedback or discussion on these topics.
+Currently,  work in a Portuguese municipality as a forestry engineer, but also as a geospatial consultant and a data engineer, dwelling through out a some of these areas:
++ Forestry and wildfire prevention;
++ GIS;
++ Land management, and Urban Planing;
++ Resource and Infrastructure Management, mainly water and sewage utilities.
 
-<a target="_blank" href="https://mentorcruise.com/mentor/nunocorao/"> <img class="nozoom" src="https://cdn.mentorcruise.com/img/banner/sky-sm.svg" width="240" alt="MentorCruise"> </a>
+Internet taught homelab afficionado, LIDAR and point cloud addict, and when possible a gamer. Music is my Sanctuary, 50% of Soul Robots. A woodworker wannabe, but still just watching videos.
+

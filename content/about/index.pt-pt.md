@@ -23,8 +23,12 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-Agora em tugues
+Com mais de vinte anos de experiência em engenharia florestal, mas principalmente focado na gestão florestal, o que obrigou a enverdar pelo geoespacial, o que me levou, pela toca do coelho abaixo, especializando-me em ferramentas FOSS4G. Em 2005 tentei iniciar uma startup de GIS FOSS4G, mas falhei. Começei a trabalhar na minha profissão e em 2012 iniciei outra startup com alguns parceiros e ainda está a funcionar. Atualmente, trabalho principalmente em gestão geoespacial e ordenamento, com uma pitada, cada vez maior, em gestão de dados. Tenho uma paixão por compreender os problemas e encontrar soluções inovadoras para poder ter tempo livre ou procrastinar mais e melhor.
 
-Currently, I am a principal product manager at Docker, where I focus on improving the lives of developers worldwide. I work closely with engineering teams, business stakeholders, and senior management to define and execute the product vision and strategy. I mentor other PMs, or people that want to get into Product and help them with my experience. Additionally, I am a startup advisor, helping early-stage startups with their product and go-to-market strategies. I enjoy writing and sharing my insights and learnings on product management and development, and I welcome any feedback or discussion on these topics.
+Atualmente, trabalho numa autarquia portuguesa como engenheiro florestal, mas também um consultor geoespacial e um engenheiro de dados, em algumas destas áreas:
++ Silvicultura e prevenção de incêndios florestais;
++ SIG;
++ Gestão do território e planeamento urbano;
++ Gestão de Recursos e Infra-estruturas, principalmente água e esgotos.
 
-<a target="_blank" href="https://mentorcruise.com/mentor/nunocorao/"> <img class="nozoom" src="https://cdn.mentorcruise.com/img/banner/sky-sm.svg" width="240" alt="MentorCruise"> </a>
+Aficionado de homelab, viciado em LIDAR e nuvens de pontos, e sempre que possível um gamer. Music is my sancturary, 50% dos Soul Robots. Um aspirante a marceneiro, mas ainda só a ver vídeos.
