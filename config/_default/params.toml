@@ -10,6 +10,8 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 defaultBackgroundImage = "jr-korpa-_OQ8Jc7kBmA-unsplash.jpg"
 defaultFeaturedImage = "jr-korpa-_OQ8Jc7kBmA-unsplash.jpg"
+highlightCurrentMenuArea = ""
+smartTOC = ""
 
 [header]
 layout = "fixed"
@@ -52,7 +54,7 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = true
