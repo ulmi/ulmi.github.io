@@ -22,7 +22,7 @@ Well it was quite a simple decision, after finding it, and it came down to some 
 * multi language;
 * and it also looked good.
 
-So by the end of last year and throughout the start of this one, I was wondering, *yeah, I'am kind of a overthinker or a late bloomer when it comes to execution cause I get tangled up in the thinking part*, about creating a new personal page / blog. At that time there was a lot going on with my life, and by a lot, I mean that I was thinking about leaving my daily work, focus only at the company that was in a new stage with a new foreign investor that joined us. So it was hectic and I thought...
+So by the end of last year and throughout the start of this one, I was wondering, *yeah, I'm kind of a overthinker or a late bloomer when it comes to execution cause I get tangled up in the thinking part*, about creating a new personal page / blog. At that time there was a lot going on with my life, and by a lot, I mean that I was thinking about leaving my daily work, focus only at the company that was in a new stage with a new foreign investor that joined us. So it was hectic and I thought...
 
 ***"I should write, it would allow me to concentrate on only one thing for a brief period of time of the day...write about what was happening and also exorcise it by putting it on something!"***
 
