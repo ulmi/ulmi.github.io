@@ -35,11 +35,11 @@ Na altura, também estava a trabalhar muito com o LIDAR, tentando processar nuve
 ![](img/Rplot03.png)
 
 
-Então tropecei no [Quarto](https://quarto.org/), e pareceu-me muito fixe, muito hype em volta dele, parecia mais simples do que o [blogdown](https://bookdown.org/yihui/blogdown/). Por isso, dediquei-me um pouco a ele usando o [R-Studio](https://posit.co/products/open-source/rstudio/), mas não tive tempo nem paciência de o tornar bonito.
+Então tropecei no [Quarto](https://quarto.org/), e pareceu-me muito fixe, muito hype em volta dele, parecia mais simples do que o [blogdown](https://bookdown.org/yihui/blogdown/). Por isso, dediquei-me um pouco a ele, usando o [R-Studio](https://posit.co/products/open-source/rstudio/), mas não tive tempo nem paciência de o tornar bonito.
 
-Também estive a ver o [Hugo](https://gohugo.io/), o [Astro](https://astro.build/) e outros. E foi quando olhei para o Hugo é que descobri o Blowfish, criado por um português, [Nuno Coração](https://n9o.xyz/about/). E tinha tudo a ver comingo, ferramentas de linha de comandos, *tenho um fraquinho por ferramentas cli*, para facilitar a gestão do mesmo...
+Também vi o [Hugo](https://gohugo.io/), o [Astro](https://astro.build/) e outros. E foi quando olhei para o Hugo é que descobri o Blowfish, criado por um português, [Nuno Coração](https://n9o.xyz/about/). E tinha tudo a ver comigo, com uma ferramenta na linha de comandos, *tenho um fraquinho por ferramentas cli*, para facilitar a gestão do mesmo...
 
-...😳😯😲😮😍 OMG tem um peixe-balão de 8 bits na linha de comando!!!
+...😳😯😲😮😍 OMG tem um peixe-balão de 8-bits na linha de comando!!!
 c
 ![](img/blowfish_cli.png)
 
