@@ -40,7 +40,7 @@ Então tropecei no [Quarto](https://quarto.org/), e pareceu-me muito fixe, muito
 Também vi o [Hugo](https://gohugo.io/), o [Astro](https://astro.build/) e outros. E foi quando olhei para o Hugo é que descobri o Blowfish, criado por um português, [Nuno Coração](https://n9o.xyz/about/). E tinha tudo a ver comigo, com uma ferramenta na linha de comandos, *tenho um fraquinho por ferramentas cli*, para facilitar a gestão do mesmo...
 
 ...😳😯😲😮😍 OMG tem um peixe-balão de 8-bits na linha de comando!!!
-c
+
 ![](img/blowfish_cli.png)
 
 ## Portanto, uma espécie de guia rápido
