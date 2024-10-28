@@ -63,7 +63,7 @@ This is one of the cool perks of Fedora, up to date packages.
 npx blowfish-tools
 ```
 
-Select *"Setup a new website with Blowfish"*, and point to the folder you want. After that, you just start to configure it, just mess around, best way to learn is really trial and error. You can test and see the result of your experiences on the browser, by navigating to *localhost:1313*.
+Select *"Setup a new website with Blowfish"*, and point to the folder you want. After that, you just start to configure it, just mess around, best way to learn, really is, trial and error! You can test and see the result of your experiences on the browser, by navigating to *localhost:1313*.
 
 ### Deploying it 
 
