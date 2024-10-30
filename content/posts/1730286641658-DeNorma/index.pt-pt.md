@@ -51,7 +51,7 @@ Ou seja, já passou algum tempo o que é ótimo, porque isso permite-nos ver qua
 
 A ideia é então, nesta série de posts, debruçar-me sobre uma destas normas, neste caso, na norma da Reserva Ecológica Nacional (REN), e a sua implementação em tecnologia FOSS4G[^1], tentando ao mesmo tempo cumprir com outra norma legal, [Regulamento Nacional de Interoperabilidade Digital (RNID)](https://www.acessibilidade.gov.pt/publicacao/rnid-versao-2018-regulamento-nacional-de-interoperabilidade-digital/).
 
-*- Então e a norma do PDM?* Vamos com calma, primeiro a REN, e caso corra bem, porque não. Mas já muita gente dedicou algum tempo a isso.
+*- Então e a norma do PDM?* Vamos com calma, primeiro a REN, e caso corra bem, porque não. E também já muita gente dedicou algum tempo a isso.
 
 {{< github repo="qgispt/qgis_pt_norma_pdm2qgis" >}}
 
