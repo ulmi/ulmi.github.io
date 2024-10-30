@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Source on Estio</title>
+    <link>http://localhost:1313/pt-pt/categories/open-source/</link>
+    <description>Recent content in Open-Source on Estio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>© 2024 Hugo Santos (Ulmi)</copyright>
+    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Então, Blowfish hmmm!!! Porque?</title>
+      <link>http://localhost:1313/pt-pt/posts/1730127710080-blowfish-why/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/posts/1730127710080-blowfish-why/</guid>
+      <description>Bem, foi uma decisão bastante simples, depois de o ter encontrado, é claro, e resumiu-se a algumas das caraterísticas, mas principalmente&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730127710080-blowfish-why/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
