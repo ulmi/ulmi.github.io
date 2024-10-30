@@ -38,20 +38,20 @@ Mas por vezes, pode fazer sentido a utilização de dados não estruturados, *qu
 
 ## As Normas
 
-Como referi num post anterior, parte do meu trabalho, e também já dei a entender neste, é em ordenamento do território. Neste caso, para desenvolver os instrumentos de gestão do território (IGT), as normas a implementar seriam:
+Como referi num post anterior, e também já dei a entender neste, parte do meu trabalho é em ordenamento do território. Neste caso, para desenvolver os instrumentos de gestão do território (IGT), as normas a implementar seriam:
 
 +  [Modelo de Dados e Sistematização da Informação Gráfica dos Planos Diretores Municipais (PDM)](https://www.dgterritorio.gov.pt/sites/default/files/publicacoes/Modelodados_PDM_18022021_Vol1_e_Vol2.pdf);
 +  [Norma Técnica sobre a Produção e Reprodução das Cartas de Delimitação da Reserva Ecológica Nacional (REN)](https://www.dgterritorio.gov.pt/sites/default/files/publicacoes/NormasEspecificacoes_REN_08022020.pdf).
 
 Ambas publicadas no Diário da República, no Aviso n.º 9282/2021 de 17 de maio, conforme publicitado aqui na página da [Direção Geral do Território](https://www.dgterritorio.gov.pt/Publicacao-de-normas-tecnicas). 
 
-Ou seja, já passou algum tempo o que é ótimo, porque isso permite-nos ver quais os resultados, as dificuldades que verificaram na implementação das e porque é que não est... :speak_no_evil: *ia estragando o suspense*.
+Ou seja, já passou algum tempo o que é ótimo, porque isso permite-nos ver quais os resultados, as dificuldades que se verificaram na implementação delas e porque é que não est... :speak_no_evil: *ia estragando o suspense*.
 
 ## O Objetivo
 
 A ideia é então, nesta série de posts, debruçar-me sobre uma destas normas, neste caso, na norma da Reserva Ecológica Nacional (REN), e a sua implementação em tecnologia FOSS4G[^1], tentando ao mesmo tempo cumprir com outra norma legal, [Regulamento Nacional de Interoperabilidade Digital (RNID)](https://www.acessibilidade.gov.pt/publicacao/rnid-versao-2018-regulamento-nacional-de-interoperabilidade-digital/).
 
-*- Então e a norma do PDM?* Vamos com calma, primeiro a REN, e caso corra bem, porque não. Mas já muita gente se dedicou a isso há algum tempo.
+*- Então e a norma do PDM?* Vamos com calma, primeiro a REN, e caso corra bem, porque não. Mas já muita gente dedicou algum tempo a isso.
 
 {{< github repo="qgispt/qgis_pt_norma_pdm2qgis" >}}
 
