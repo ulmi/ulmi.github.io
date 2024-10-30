@@ -1,5 +1,5 @@
 ---
-title: "A DeNorma - parte 1"
+title: "The DeNorm - part 1"
 date: 2024-10-30
 draft: false
 description: "Primeira parte de um blog series, sobre as Normas dos Instrumentos de Gestão de Território (IGT)"
@@ -61,7 +61,7 @@ The idea, then, in this series of posts, is to focus on one of these standards, 
 As it's a rather boring subject, made up of a lot of annoyances, I'm going to put it in parts, and try to follow more or less this alignment:
 
 1. Contextualize these IGTs and the current state and why of the standards;
-2. We're going to have to take a look, at least once, at diagonally or scraping the surface, please bare with me. And their current implementation;
+2. We're going to have to take a look, at least once, diagonally or scraping the surface, please bare with me. And their current implementation;
 3. Make the symbology in the [QGIS] environment(https://qgis.org/);
 4. Look at the [OGC Geopackage spec](https://www.geopackage.org/) and try to create the data model on it;
 5. And in the end, wrap it all up as well as possible and make it available to everyone.
