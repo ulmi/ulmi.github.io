@@ -109,8 +109,9 @@ websiteid = "f7384d1d-f149-4c93-bf00-64368f884a12"
 #dataDomains = "yoursite.com,yoursite2.com"
 enableTrackEvent = true
 
-
 [selineAnalytics]
+token = "a000c88ab443fa7"
+enableTrackEvent = true
 
 [buymeacoffee]
 
