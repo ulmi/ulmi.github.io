@@ -16,15 +16,15 @@ Sim e não, depende...
 ![](img/pirates-yesbutno.gif)
 
 
-A normalização e harmonização de dados é algo que considero essencial, garante a rápida leitura da informação... 
+A normalização e harmonização de dados é algo que considero essencial, garante uma rápida leitura da informação... 
 > *Embora, às vezes, quando nos deparamos com dados demasiado estruturados, tipo sei lá, [INSPIRE](https://knowledge-base.inspire.ec.europa.eu/index_en) :eyes:, perde-se a
 > noção, ao ponto de parecer complicado, só porque sim*
 
-...temos uma melhor perceção e clareza na aplicação ou utilização da informação, mas também uma maior garantia da informação se encontrar correta com a sua replicação/propagação. O que é ótimo, especialmente quando estamos a lidar com informação sobre cadastro de propriedade, ou com informação de planeamento e gestão do território, nos diversos tipos de Instrumentos de Gestão de Território (IGT) que existem em Portugal.
+...temos uma melhor perceção e clareza na aplicação ou utilização da informação, mas também uma maior garantia da desta se encontrar correta com a sua replicação/propagação. O que é ótimo, especialmente quando estamos a lidar com informação sobre cadastro de propriedade, ou com informação de planeamento e gestão do território, nos diversos tipos de Instrumentos de Gestão de Território (IGT) que existem em Portugal.
 
 *- Então, e quando não é?* A normalização de ideologias e de ideias abjetas é um desses casos, e depois quem detém o poder, tende também a definir o que é "normal" e o que não é, e todos nós já tivemos História na escola, ou lemos ou vimos ficção suficiente para saber ao que isso leva.
 
-Mas voltando aos dados, também dizem que a "denormalização" destes pode ser algo bom, em especial quando gestão de espaço para armazenamento não é um problema. Isto porque permite uma melhor e mais rápida leitura dos dados, logo, uma melhor performance, e com isso até apresentar menos overhead, que um servidor de base de dados relacional, em especial quando comparados dados ultra normalizados.
+Mas voltando aos dados, também dizem que a "denormalização" destes pode ser algo bom, em especial quando gestão de espaço de armazenamento não é um problema. Isto porque permite uma melhor e mais rápida leitura dos dados, logo, uma melhor performance, e com isso até apresentar menos overhead, que um servidor de base de dados relacional, em especial quando comparados dados ultra normalizados.
 
 Mas estes memes existem...
 
@@ -38,7 +38,7 @@ Mas por vezes, pode fazer sentido a utilização de dados não estruturados, *qu
 
 ## As Normas
 
-Como referi num post anterior, e também já dei a entender neste, parte do meu trabalho é em ordenamento do território. Neste caso, para desenvolver os instrumentos de gestão do território (IGT), as normas a implementar seriam:
+Como referi num post anterior, e também já dei a entender neste, parte do meu trabalho é em ordenamento do território. E neste caso, para desenvolver os instrumentos de gestão do território (IGT), as normas a implementar seriam:
 
 +  [Modelo de Dados e Sistematização da Informação Gráfica dos Planos Diretores Municipais (PDM)](https://www.dgterritorio.gov.pt/sites/default/files/publicacoes/Modelodados_PDM_18022021_Vol1_e_Vol2.pdf);
 +  [Norma Técnica sobre a Produção e Reprodução das Cartas de Delimitação da Reserva Ecológica Nacional (REN)](https://www.dgterritorio.gov.pt/sites/default/files/publicacoes/NormasEspecificacoes_REN_08022020.pdf).
