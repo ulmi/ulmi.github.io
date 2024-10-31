@@ -105,6 +105,11 @@ cardViewScreenWidth = false
 
 [umamiAnalytics]
 
+umamiAnalytics.websiteid = "f7384d1d-f149-4c93-bf00-64368f884a12"
+
+umamiAnalytics.enableTrackEvent = true
+
+
 [selineAnalytics]
 
 [buymeacoffee]
