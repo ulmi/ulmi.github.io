@@ -104,10 +104,10 @@ cardViewScreenWidth = false
 [fathomAnalytics]
 
 [umamiAnalytics]
-
-umamiAnalytics.websiteid = "f7384d1d-f149-4c93-bf00-64368f884a12"
-
-umamiAnalytics.enableTrackEvent = true
+websiteid = "f7384d1d-f149-4c93-bf00-64368f884a12"
+domain = "ulmi.github.io"
+#dataDomains = "yoursite.com,yoursite2.com"
+enableTrackEvent = true
 
 
 [selineAnalytics]
