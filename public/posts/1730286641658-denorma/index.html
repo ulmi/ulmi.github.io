@@ -164,6 +164,44 @@
 
 
 
+<script data-id="umami-script" async src="https://analytics.umami.is/script.js"
+        data-website-id="f7384d1d-f149-4c93-bf00-64368f884a12">
+</script>
+
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]')
+        .addEventListener('load', function () {
+            const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+            let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+            let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+            umami.track(type + ':' + title, {'url': url});
+    });
+</script>
+
+
+
+<script async src="https://cdn.seline.so/seline.js" data-token="a000c88ab443fa7" data-id="seline-script"></script>
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="seline-script"]')
+        .addEventListener('load', function () {
+            const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+            let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+            let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+
+            seline.track("user:" + type + ':' + title, {
+                type: type,
+                title: title,
+                url: url
+            });
+        });
+</script>
+
+
+
   
   
   <meta name="theme-color"/>
@@ -1158,6 +1196,28 @@
           
         </span>
         <span>
+          
+            <a class="flex text-right group ml-3" href="/posts/1730464478931-denorma_pt2/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >denorma_pt2</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2024-11-01T00:00:00&#43;00:00">1 November 2024</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
           
         </span>
       </div>
