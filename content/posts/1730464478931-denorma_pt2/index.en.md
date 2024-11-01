@@ -1,5 +1,5 @@
 ---
-title: "A DeNorma - part 2"
+title: "The DeNorm - part 2"
 date: 2024-11-01
 draft: false
 description: "2nd part of this blog series, sobre as Normas dos Instrumentos de Gestão de Território (IGT)"
