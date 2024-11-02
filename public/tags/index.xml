@@ -9,29 +9,9 @@
     <copyright>© 2024 Hugo Santos (Ulmi)</copyright>
     <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/example/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/tag/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>GIS</title>
       <link>http://localhost:1313/tags/gis/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/gis/</guid>
       <description></description>
@@ -41,7 +21,7 @@
     <item>
       <title>How-To</title>
       <link>http://localhost:1313/tags/how-to/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/how-to/</guid>
       <description></description>
@@ -51,7 +31,7 @@
     <item>
       <title>Norma</title>
       <link>http://localhost:1313/tags/norma/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/norma/</guid>
       <description></description>
@@ -61,7 +41,7 @@
     <item>
       <title>Series</title>
       <link>http://localhost:1313/tags/series/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/series/</guid>
       <description></description>
@@ -71,7 +51,7 @@
     <item>
       <title>SIG</title>
       <link>http://localhost:1313/tags/sig/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/sig/</guid>
       <description></description>
