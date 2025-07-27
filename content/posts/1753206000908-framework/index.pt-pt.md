@@ -10,7 +10,7 @@ tags: ["framework", "portátil", "regresso"]
 
 Mas muita coisa aconteceu desde novembro. Continuo pai de nenhum, mas passei por uma espécie de divórcio, com a venda da minha parte na minha antiga empresa que fundei em 2012, em maio passado. Foi triste, mas também um alívio após um 2024 caótico e neurótico, mas isso é uma outra história para partilhar.
 
-Não comecei nada de novo entretanto, à parte de alguns novos projetos paralelos, mas pequenos para manter a mente ocupada e a sentir-se desconfortável, como deve ser – tal como este blog era ser, e que eu não consegui manter. Um desses projetos está certamente a deixar-me mais desconfortável do que deveria, devido à sua escala, mas LFG!
+Não comecei nada de novo entretanto, à parte de alguns novos projetos paralelos, mas pequenos para manter a mente ocupada e a sentir-se desconfortável, como deve ser – tal como este blog era para ser, e que eu não consegui manter. Um desses projetos está certamente a deixar-me mais desconfortável do que deveria, devido à sua escala, mas LFG!
 
 Mas, mais uma vez, isso fica para uma nova leva de posts, porque preciso de assunto para continuar a escrever, e também de terminar a série DeNorm.
 
