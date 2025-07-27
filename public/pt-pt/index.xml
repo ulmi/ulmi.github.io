@@ -6,15 +6,26 @@
     <description>Recent content on Estio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <copyright>© 2024 Hugo Santos (Ulmi)</copyright>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Hugo Santos (Ulmi)</copyright>
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>O Framework 13</title>
+      <link>http://localhost:1313/pt-pt/posts/1753206000908-framework/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/posts/1753206000908-framework/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1753206000908-framework/featured.png" />
+    </item>
+    
     <item>
       <title>A DeNorma - parte 2</title>
       <link>http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/</guid>
-      <description>Os IGTs # Como referi no post anterior, os instrumentos de gestão do território (IGT) em Portugal podem ser variados, desde dos mais famosos como os Planos Directores Municipais, os quais são do conhecimento da generalidade da população.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730464478931-denorma_pt2/featured.png" />
     </item>
     
@@ -24,7 +35,7 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-pt/posts/1730286641658-denorma/</guid>
-      <description>Normalização é bom?</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730286641658-denorma/featured.png" />
     </item>
     
@@ -44,7 +55,7 @@
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-pt/posts/1729858463421-1st-things-1st/</guid>
-      <description>ESTIO?</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1729858463421-1st-things-1st/featured.png" />
     </item>
     
@@ -54,7 +65,7 @@
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
       <guid>http://localhost:1313/pt-pt/about/</guid>
-      <description>Com mais de vinte anos de experiência em engenharia florestal, mas principalmente focado na gestão florestal, o que obrigou a enverdar pelo geoespacial, o que me levou, pela toca do coelho abaixo, especializando-me em ferramentas FOSS4G.</description>
+      <description></description>
       
     </item>
     
