@@ -30,7 +30,7 @@ So it seemed to be the right time for me to go with the framework 13 laptop vers
 
 For the mainboard I went with the AMD Ryzen 5 7640U, cause the the Ryzen AI 5 340 doesn't seem to be what it should, performance-wise and the AMD Ryzen 7 7840U was not available for shipping. I would prefer the AMD Ryzen AI 9 HX 370, but that's on whole new ballpark when it comes to price. Added to the mainboard I went with 64 Gb of RAM, and a 2Tb NVMe.
 
-Where are some pictures of the assembly.
+Here are some pictures of the assembly.
 
 ![image1](img/1.jpg)
 ![image2](img/2.jpg)
