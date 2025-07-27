@@ -51,7 +51,7 @@ Após alguns segundos, que pareceram minutos, a BIOS lá apareceu.
 
 Com essa tragédia evitada, instalei o Fedora 42 Kinoite, que funcionou na perfeição. Tudo funcionou como devia, até o sleep / suspensão (a malta do Linux vai perceber). No primeiro arranque, até me pediu para configurar o sensor de impressão digital, que funciona como esperado. No entanto, desativei-o (apenas na CLI), porque os comandos *sudo* passavam a pedir a impressão digital em vez da password.
 
-Depois de alguma "bricolage", instalei algumas aplicações, como o VSCodium, KeePassXC, Bottles, etc... Reiniciei e fui à BIOS para explorar.
+Depois de alguma exploração, instalei algumas aplicações, como o VSCodium, KeePassXC, Bottles, etc... Reiniciei e fui à BIOS para explorar.
 
 Na BIOS, esperava ter mais controlo, como dar mais memória à APU – parece estar limitada a 4 GB, ou aloca isso como base e aumenta conforme a necessidade; não é claro – daí a instalação de 64 GB de RAM. Mas, tirando isso, é uma BIOS muito simples e direta, embora numa versão mais antiga. Então, depois de verificar, vi que havia uma [atualização da BIOS](https://knowledgebase.frame.work/en_us/framework-laptop-13-bios-and-driver-releases-amd-ryzen-7040-series-r1rXGVL16S). E, caramba, faz-me uma confusão como o LVFS não é algo *mainstream* – ou é, e eu tenho andado a viver debaixo de uma pedra?. Copiar e colar 3 comandos no terminal, esperar um bocado... e BOOM, está feito! A BIOS está atualizada. Continua sem novidades na RAM para a APU, mas o LMStudio mostra uma VRAM promissora. Tenho de testar, no entanto.
 
