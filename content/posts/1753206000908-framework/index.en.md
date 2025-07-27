@@ -8,7 +8,7 @@ tags: ["framework", "laptop", "comeback"]
 
 # So it's been a while...well more than while!
 
-But a lot has happen since november, still a father of none but I went through some sort of a divorce, with the selling of my share in my old company in past May which I founded in 2012. It was sad but a relief form a chaotic and neurotic 2024, but that's all other story to share about that experience.
+But a lot has happen since november, still a father of none but I went through some sort of a divorce, with the selling of my share in my old company in past May which I founded in 2012. It was sad but a relief from a chaotic and neurotic 2024, but that's all other story to share about that experience.
 
 I didn't start anything new in the meantime, apart from some new side projects, small and to get the mind busy and uncomfortable as one should - like this was and I failed to maintain it - where one of those projects surely does make me more uncomfortable than I should be, do to it's scale, but LFG!
 
