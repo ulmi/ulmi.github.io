@@ -29,7 +29,8 @@ It was then that I remembered the folks from [3liz](https://3liz.org/), who make
 Using [SchemaSpy](https://schemaspy.org/) is genuinely simple: download a `.jar` file (so yes, you need Java installed) and run a relatively long but easy-to-understand command.
 
 ```bash
-java -jar schemaspy.jar -t mssql05 -dp C:/sqljdbc4-3.0.jar -db DATABASE -host SERVER -port 1433 -s dbo -u USER -p PASSWORD -o DIRECTORY
+java -jar schemaspy.jar -t mssql05 -dp C:/sqljdbc4-3.0.jar \
+-db DATABASE -host SERVER -port 1433 -s dbo -u USER -p PASSWORD -o DIRECTORY
 ```
 
 Breaking down the command from the website:
@@ -51,7 +52,9 @@ If we want diagrams, we need to ensure we have GraphViz installed, and we also n
 In my case, I just adapted the command a bit:
 
 ```bash
-java -jar schemaspy-6.2.4.jar -t pgsql -dp postgresql-42.5.4.jar -db dev2 -host localhost -port 5432 -u user -p password -schemas schema_da_db -o ./doc
+java -jar schemaspy-6.2.4.jar -t pgsql -dp postgresql-42.5.4.jar \
+-db dev2 -host localhost -port 5432 -u user -p password \
+-schemas schema_da_db -o ./doc
 ```
 
 For some reason, I had to use **-schemas** instead of **-s**, but it worked perfectly and was incredibly fast.
@@ -69,7 +72,12 @@ Another option is [Schemacrawler](https://www.schemacrawler.com/), especially if
 Running Schemacrawler was a bit more involved than SchemaSpy, but Docker/Podman helps — although it’s not a simple one-liner.
 
 ```bash
-podman run --network=host -v $(pwd):/home/schcrwlr/share:Z --name schemacrawler -u $(id -u):$(id -g) --rm -i -t --entrypoint=/bin/bash schemacrawler/schemacrawler
+podman run --network=host -v $(pwd):/home/schcrwlr/share:Z \
+--name schemacrawler \
+-u $(id -u):$(id -g) \
+--rm -i -t \
+--entrypoint=/bin/bash \
+schemacrawler/schemacrawler
 ```
 
 The command above works *as is*, since the important part is **pwd** to map the working directory, and **-u $(id -u):$(id -g)** to avoid permission issues.
@@ -77,7 +85,18 @@ The command above works *as is*, since the important part is **pwd** to map the 
 Then, inside the container, we define what we want — in this case, **EVERYTHING**:
 
 ```bash
-schemacrawler --server=postgresql  --host=localhost   --port=5432   --database=dbname   --schemas=schemaname   --user=user   --password=password   --info-level=maximum   --command=details   --output-format=htmlx   --output-file=/home/schcrwlr/share/database_report.html
+schemacrawler \
+--server=postgresql  \
+--host=localhost   \
+--port=5432   \
+--database=dbname   \
+--schemas=schemaname   \
+--user=user   \
+--password=password   \
+--info-level=maximum   \
+--command=details   \
+--output-format=htmlx   \
+--output-file=/home/schcrwlr/share/database_report.html
 ```
 
 And with that, we get a very complete report.
