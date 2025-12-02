@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIL on Estio</title>
+    <link>http://localhost:38961/tags/til/</link>
+    <description>Recent content in TIL on Estio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Hugo Santos (Ulmi)</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:38961/tags/til/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DB docs</title>
+      <link>http://localhost:38961/posts/1760962816589-dbdocumenting/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/posts/1760962816589-dbdocumenting/</guid>
+      <description>&lt;p&gt;Another break — between leisure, work, and a healthy dose of laziness, everything ends up more complicated. Not for lack of ideas, but for lack of focus. Still, today will be a quick post, more in the &lt;strong&gt;TIL&lt;/strong&gt; (Today I Learned) spirit, and maybe mostly for future reference so I don’t have to get lost again in searches and manuals.&lt;/p&gt;
+&lt;p&gt;Documenting a database is a tricky business. It’s not enough to design and structure the DB — we also have to ensure that the whole structure makes sense to whoever will evaluate whether the “design” meets the requirements before it moves to production. In fact, it becomes a very useful tool during &lt;em&gt;staging&lt;/em&gt;, when the DB is ready for production, and even afterwards. In other words: documentation is never a waste.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1760962816589-dbdocumenting/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
