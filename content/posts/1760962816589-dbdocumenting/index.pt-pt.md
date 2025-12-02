@@ -6,7 +6,7 @@ description: "DB documenting"
 tags: ["TIL", "DB", "docs"]
 ---
 
-Mais um interregno, mas entre o ócio, trabalho e muita perguiça que torna tudo complicado, não por falta de ideias, mas sim por falta de foco. Apesar disso tudo hoje será um post rápido, tipo **TIL** (Today I Learned), e talvez mais para memória futura, para não ter de me "perder" em pesquisas e manuais.
+Mais um interregno, mas entre o ócio, trabalho e muita perguiça, tudo se torna mais complicado. Não por falta de ideias, mas sim por falta de foco. Apesar disso tudo hoje será um post rápido, tipo **TIL** (Today I Learned), e talvez mais para memória futura, para não ter de me "perder" em pesquisas e manuais.
 
 A documentação de uma base de dados é algo tramado, já que não basta ter de delinear e estruturar a BD, depois ainda temos de garantir que toda a estrutura faz sentido para quem vai avaliar se o “desenho” responde ao que é pretendido antes de avançar para produção. Aliás acaba por ser também, uma ferramenta útil em _staging_, no momento em que a BD está pronta a entrar em produção e até nas fases seguintes, ou seja, é sempre bom ter!!
 
