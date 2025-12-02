@@ -2,31 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIS on Estio</title>
-    <link>http://localhost:1313/pt-pt/tags/gis/</link>
+    <link>http://localhost:38961/pt-pt/tags/gis/</link>
     <description>Recent content in GIS on Estio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>© 2025 Hugo Santos (Ulmi)</copyright>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:38961/pt-pt/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A DeNorma - parte 2</title>
-      <link>http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/</link>
+      <link>http://localhost:38961/pt-pt/posts/1730464478931-denorma_pt2/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730464478931-denorma_pt2/featured.png" />
+      <guid>http://localhost:38961/pt-pt/posts/1730464478931-denorma_pt2/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Os IGTs
+    &lt;div id=&#34;os-igts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#os-igts&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;Como referi no post anterior, os instrumentos de gestão do território (IGT) em Portugal podem ser variados, desde dos mais famosos como os Planos Directores Municipais, os quais são do conhecimento da generalidade da população. Mas num nível superior a esses, temos os Planos Especiais e Planos Regionais, e já num plano inferior temos planos com uma área territorial mais pequena, como os Planos de Pormenor (PP), ou Planos de Intervenção em Espaço Rural (PIER).&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1730464478931-denorma_pt2/featured.png" />
     </item>
     
     <item>
       <title>A DeNorma - parte 1</title>
-      <link>http://localhost:1313/pt-pt/posts/1730286641658-denorma/</link>
+      <link>http://localhost:38961/pt-pt/posts/1730286641658-denorma/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/posts/1730286641658-denorma/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730286641658-denorma/featured.png" />
+      <guid>http://localhost:38961/pt-pt/posts/1730286641658-denorma/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Normalização é bom?
+    &lt;div id=&#34;normalização-é-bom&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#normaliza%c3%a7%c3%a3o-%c3%a9-bom&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;Sim e não, depende&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;auto&#34;
+    alt=&#34;&#34;
+    width=&#34;471&#34;
+    height=&#34;266&#34;
+    src=&#34;http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif&#34;
+    srcset=&#34;http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif 800w, http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif 1280w&#34;
+    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;
+    data-zoom-src=&#34;http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A normalização e harmonização de dados é algo que considero essencial, garante uma rápida leitura da informação&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Embora, às vezes, quando nos deparamos com dados demasiado estruturados, tipo sei lá, &lt;a
+  href=&#34;https://knowledge-base.inspire.ec.europa.eu/index_en&#34;
+    target=&#34;_blank&#34;
+  &gt;INSPIRE&lt;/a&gt; :eyes:, perde-se a
+noção, ao ponto de parecer complicado, só porque sim&lt;/em&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1730286641658-denorma/featured.png" />
     </item>
     
   </channel>

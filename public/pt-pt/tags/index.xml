@@ -2,109 +2,169 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Estio</title>
-    <link>http://localhost:1313/pt-pt/tags/</link>
+    <link>http://localhost:38961/pt-pt/tags/</link>
     <description>Recent content in Tags on Estio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>© 2025 Hugo Santos (Ulmi)</copyright>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:38961/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DB</title>
+      <link>http://localhost:38961/pt-pt/tags/db/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/tags/db/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>http://localhost:38961/pt-pt/tags/docs/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TIL</title>
+      <link>http://localhost:38961/pt-pt/tags/til/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/tags/til/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Framework</title>
+      <link>http://localhost:38961/pt-pt/tags/framework/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/tags/framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portátil</title>
+      <link>http://localhost:38961/pt-pt/tags/port%C3%A1til/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/tags/port%C3%A1til/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Regresso</title>
+      <link>http://localhost:38961/pt-pt/tags/regresso/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/tags/regresso/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GIS</title>
-      <link>http://localhost:1313/pt-pt/tags/gis/</link>
+      <link>http://localhost:38961/pt-pt/tags/gis/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/gis/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/gis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>How-To</title>
-      <link>http://localhost:1313/pt-pt/tags/how-to/</link>
+      <link>http://localhost:38961/pt-pt/tags/how-to/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/how-to/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/how-to/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Norma</title>
-      <link>http://localhost:1313/pt-pt/tags/norma/</link>
+      <link>http://localhost:38961/pt-pt/tags/norma/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/norma/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/norma/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Series</title>
-      <link>http://localhost:1313/pt-pt/tags/series/</link>
+      <link>http://localhost:38961/pt-pt/tags/series/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/series/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/series/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SIG</title>
-      <link>http://localhost:1313/pt-pt/tags/sig/</link>
+      <link>http://localhost:38961/pt-pt/tags/sig/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/sig/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/sig/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish</title>
-      <link>http://localhost:1313/pt-pt/tags/blowfish/</link>
+      <link>http://localhost:38961/pt-pt/tags/blowfish/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/blowfish/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/blowfish/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/pt-pt/tags/hugo/</link>
+      <link>http://localhost:38961/pt-pt/tags/hugo/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/hugo/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/pt-pt/tags/tutorial/</link>
+      <link>http://localhost:38961/pt-pt/tags/tutorial/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/tutorial/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>http://localhost:1313/pt-pt/tags/post/</link>
+      <link>http://localhost:38961/pt-pt/tags/post/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/post/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rant</title>
-      <link>http://localhost:1313/pt-pt/tags/rant/</link>
+      <link>http://localhost:38961/pt-pt/tags/rant/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/tags/rant/</guid>
+      <guid>http://localhost:38961/pt-pt/tags/rant/</guid>
       <description></description>
       
     </item>

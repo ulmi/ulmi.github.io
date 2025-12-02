@@ -2,51 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Estio</title>
-    <link>http://localhost:1313/pt-pt/posts/</link>
+    <link>http://localhost:38961/pt-pt/posts/</link>
     <description>Recent content in Posts on Estio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>© 2025 Hugo Santos (Ulmi)</copyright>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:38961/pt-pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DB docs</title>
+      <link>http://localhost:38961/pt-pt/posts/1760962816589-dbdocumenting/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/posts/1760962816589-dbdocumenting/</guid>
+      <description>&lt;p&gt;Mais um interregno, mas entre o ócio, trabalho e muita perguiça que torna tudo complicado, não por falta de ideias, mas sim por falta de foco. Apesar disso tudo hoje será um post rápido, tipo &lt;strong&gt;TIL&lt;/strong&gt; (Today I Learned), e talvez mais para memória futura, para não ter de me &amp;ldquo;perder&amp;rdquo; em pesquisas e manuais.&lt;/p&gt;
+&lt;p&gt;A documentação de uma base de dados é algo tramado, já que não basta ter de delinear e estruturar a BD, depois ainda temos de garantir que toda a estrutura faz sentido para quem vai avaliar se o “desenho” responde ao que é pretendido antes de avançar para produção. Aliás acaba por ser também, uma ferramenta útil em &lt;em&gt;staging&lt;/em&gt;, no momento em que a BD está pronta a entrar em produção e até nas fases seguintes, ou seja, é sempre bom ter!!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1760962816589-dbdocumenting/featured.png" />
+    </item>
+    
+    <item>
+      <title>O Framework 13</title>
+      <link>http://localhost:38961/pt-pt/posts/1753206000908-framework/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38961/pt-pt/posts/1753206000908-framework/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Então, já passou algum tempo&amp;hellip; bem, mais do que algum tempo!
+    &lt;div id=&#34;então-já-passou-algum-tempo-bem-mais-do-que-algum-tempo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#ent%c3%a3o-j%c3%a1-passou-algum-tempo-bem-mais-do-que-algum-tempo&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;Mas muita coisa aconteceu desde novembro. Continuo pai de nenhum, mas passei por uma espécie de divórcio, com a venda da minha parte na minha antiga empresa que fundei em 2012, em maio passado. Foi triste, mas também um alívio após um 2024 caótico e neurótico, mas isso é uma outra história para partilhar.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1753206000908-framework/featured.png" />
+    </item>
     
     <item>
       <title>A DeNorma - parte 2</title>
-      <link>http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/</link>
+      <link>http://localhost:38961/pt-pt/posts/1730464478931-denorma_pt2/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730464478931-denorma_pt2/featured.png" />
+      <guid>http://localhost:38961/pt-pt/posts/1730464478931-denorma_pt2/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Os IGTs
+    &lt;div id=&#34;os-igts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#os-igts&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;Como referi no post anterior, os instrumentos de gestão do território (IGT) em Portugal podem ser variados, desde dos mais famosos como os Planos Directores Municipais, os quais são do conhecimento da generalidade da população. Mas num nível superior a esses, temos os Planos Especiais e Planos Regionais, e já num plano inferior temos planos com uma área territorial mais pequena, como os Planos de Pormenor (PP), ou Planos de Intervenção em Espaço Rural (PIER).&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1730464478931-denorma_pt2/featured.png" />
     </item>
     
     <item>
       <title>A DeNorma - parte 1</title>
-      <link>http://localhost:1313/pt-pt/posts/1730286641658-denorma/</link>
+      <link>http://localhost:38961/pt-pt/posts/1730286641658-denorma/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/posts/1730286641658-denorma/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730286641658-denorma/featured.png" />
+      <guid>http://localhost:38961/pt-pt/posts/1730286641658-denorma/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Normalização é bom?
+    &lt;div id=&#34;normalização-é-bom&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#normaliza%c3%a7%c3%a3o-%c3%a9-bom&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;Sim e não, depende&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;auto&#34;
+    alt=&#34;&#34;
+    width=&#34;471&#34;
+    height=&#34;266&#34;
+    src=&#34;http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif&#34;
+    srcset=&#34;http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif 800w, http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif 1280w&#34;
+    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;
+    data-zoom-src=&#34;http://localhost:38961/posts/1730286641658-denorma/img/pirates-yesbutno.gif&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A normalização e harmonização de dados é algo que considero essencial, garante uma rápida leitura da informação&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Embora, às vezes, quando nos deparamos com dados demasiado estruturados, tipo sei lá, &lt;a
+  href=&#34;https://knowledge-base.inspire.ec.europa.eu/index_en&#34;
+    target=&#34;_blank&#34;
+  &gt;INSPIRE&lt;/a&gt; :eyes:, perde-se a
+noção, ao ponto de parecer complicado, só porque sim&lt;/em&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1730286641658-denorma/featured.png" />
     </item>
     
     <item>
       <title>Então, Blowfish hmmm!!! Porque?</title>
-      <link>http://localhost:1313/pt-pt/posts/1730127710080-blowfish-why/</link>
+      <link>http://localhost:38961/pt-pt/posts/1730127710080-blowfish-why/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/posts/1730127710080-blowfish-why/</guid>
+      <guid>http://localhost:38961/pt-pt/posts/1730127710080-blowfish-why/</guid>
       <description>Bem, foi uma decisão bastante simples, depois de o ter encontrado, é claro, e resumiu-se a algumas das caraterísticas, mas principalmente&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730127710080-blowfish-why/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1730127710080-blowfish-why/featured.png" />
     </item>
     
     <item>
       <title>1st things 1st</title>
-      <link>http://localhost:1313/pt-pt/posts/1729858463421-1st-things-1st/</link>
+      <link>http://localhost:38961/pt-pt/posts/1729858463421-1st-things-1st/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-pt/posts/1729858463421-1st-things-1st/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1729858463421-1st-things-1st/featured.png" />
+      <guid>http://localhost:38961/pt-pt/posts/1729858463421-1st-things-1st/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;ESTIO?
+    &lt;div id=&#34;estio&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#estio&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;Portanto, isto tenta ser o início de algo, uma nova página pessoal, mas também uma espécie de caderno de notas do que faço, com &lt;strong&gt;dados&lt;/strong&gt;, no &lt;strong&gt;geoespacial&lt;/strong&gt;, ou etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Mas também o que aprendo nas minhas experiências de homelabing ou de algo que gosto e não me consigo calar, ou então, algo que aprendi para memória futura, como um Today I Learned (TIL).&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38961/posts/1729858463421-1st-things-1st/featured.png" />
     </item>
     
   </channel>

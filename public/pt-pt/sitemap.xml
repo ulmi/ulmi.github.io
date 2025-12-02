@@ -3,115 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/</loc>
+    <loc>http://localhost:38961/pt-pt/posts/1760962816589-dbdocumenting/</loc>
+    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:38961/posts/1760962816589-dbdocumenting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:38961/pt-pt/posts/1760962816589-dbdocumenting/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:38961/pt-pt/</loc>
+    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:38961/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:38961/pt-pt/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:38961/pt-pt/posts/</loc>
+    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:38961/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:38961/pt-pt/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:38961/pt-pt/posts/1753206000908-framework/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:38961/posts/1753206000908-framework/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:38961/pt-pt/posts/1753206000908-framework/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:38961/pt-pt/posts/1730464478931-denorma_pt2/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/1730464478931-denorma_pt2/"
+      href="http://localhost:38961/posts/1730464478931-denorma_pt2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/pt-pt/posts/1730464478931-denorma_pt2/"
+      href="http://localhost:38961/pt-pt/posts/1730464478931-denorma_pt2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-pt/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/pt-pt/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt-pt/posts/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/pt-pt/posts/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt-pt/posts/1730286641658-denorma/</loc>
+    <loc>http://localhost:38961/pt-pt/posts/1730286641658-denorma/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/1730286641658-denorma/"
+      href="http://localhost:38961/posts/1730286641658-denorma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/pt-pt/posts/1730286641658-denorma/"
+      href="http://localhost:38961/pt-pt/posts/1730286641658-denorma/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-pt/posts/1730127710080-blowfish-why/</loc>
+    <loc>http://localhost:38961/pt-pt/posts/1730127710080-blowfish-why/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/1730127710080-blowfish-why/"
+      href="http://localhost:38961/posts/1730127710080-blowfish-why/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/pt-pt/posts/1730127710080-blowfish-why/"
+      href="http://localhost:38961/pt-pt/posts/1730127710080-blowfish-why/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-pt/posts/1729858463421-1st-things-1st/</loc>
+    <loc>http://localhost:38961/pt-pt/posts/1729858463421-1st-things-1st/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/1729858463421-1st-things-1st/"
+      href="http://localhost:38961/posts/1729858463421-1st-things-1st/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/pt-pt/posts/1729858463421-1st-things-1st/"
+      href="http://localhost:38961/pt-pt/posts/1729858463421-1st-things-1st/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-pt/about/</loc>
+    <loc>http://localhost:38961/pt-pt/about/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/about/"
+      href="http://localhost:38961/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/pt-pt/about/"
+      href="http://localhost:38961/pt-pt/about/"
     />
   </url>
 </urlset>

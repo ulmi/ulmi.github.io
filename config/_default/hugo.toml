@@ -9,8 +9,10 @@ timeout = "60s"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
+[pagination]
+  pagerSize = 100
+
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 buildDrafts = false
