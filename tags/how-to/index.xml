@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How-To on Estio</title><link>https://ulmi.github.io/tags/how-to/</link><description>Recent content in How-To on Estio</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Hugo Santos (Ulmi)</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ulmi.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml"/><item><title>The DeNorm - part 2</title><link>https://ulmi.github.io/posts/1730464478931-denorma_pt2/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>https://ulmi.github.io/posts/1730464478931-denorma_pt2/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ulmi.github.io/posts/1730464478931-denorma_pt2/featured.png"/></item><item><title>The DeNorm - part 1</title><link>https://ulmi.github.io/posts/1730286641658-denorma/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://ulmi.github.io/posts/1730286641658-denorma/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ulmi.github.io/posts/1730286641658-denorma/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How-To on Estio</title><link>https://ulmi.github.io/tags/how-to/</link><description>Recent content in How-To on Estio</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Hugo Santos (Ulmi)</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ulmi.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml"/><item><title>The DeNorm - part 2</title><link>https://ulmi.github.io/posts/1730464478931-denorma_pt2/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>https://ulmi.github.io/posts/1730464478931-denorma_pt2/</guid><description>&lt;h2 class="relative group">Territorial Management Instruments (IGTs)
+&lt;div id="territorial-management-instruments-igts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#territorial-management-instruments-igts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>As mentioned in the previous post, territorial management instruments (we called them IGT) in Portugal are diverse, ranging from the well-known Plano Director Municipal (PDM), which are Municipal Master Plans, widely recognized by the general public. However, at a higher level, we other like the Special and Regional Plans, while at a lower level, there are plans with smaller territorial scope, such as Detailed Plans (PP) or Rural Space Intervention Plans (PIER).&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ulmi.github.io/posts/1730464478931-denorma_pt2/featured.png"/></item><item><title>The DeNorm - part 1</title><link>https://ulmi.github.io/posts/1730286641658-denorma/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://ulmi.github.io/posts/1730286641658-denorma/</guid><description>&lt;h2 class="relative group">Is normalization good?
+&lt;div id="is-normalization-good" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#is-normalization-good" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Yes and no, it depends&amp;hellip;&lt;/p>
+&lt;p>&lt;figure>&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="auto"
+alt=""
+width="471"
+height="266"
+src="https://ulmi.github.io/posts/1730286641658-denorma/img/pirates-yesbutno.gif"
+srcset="https://ulmi.github.io/posts/1730286641658-denorma/img/pirates-yesbutno.gif 800w, https://ulmi.github.io/posts/1730286641658-denorma/img/pirates-yesbutno.gif 1280w"
+sizes="(min-width: 768px) 50vw, 65vw"
+data-zoom-src="https://ulmi.github.io/posts/1730286641658-denorma/img/pirates-yesbutno.gif">&lt;/figure>
+&lt;/p>
+&lt;p>The normalization and harmonization of data is something I consider essential, it ensures that information can be read quickly&amp;hellip;&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Although sometimes, when you come across data that&amp;rsquo;s too structured, like, I don&amp;rsquo;t know, &lt;a
+href="https://knowledge-base.inspire.ec.europa.eu/index_en"
+target="_blank"
+>INSPIRE&lt;/a> :eyes:, you lose track of it, to the point where it seems complicated, just because needs to be&lt;/em>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ulmi.github.io/posts/1730286641658-denorma/featured.png"/></item></channel></rss>
