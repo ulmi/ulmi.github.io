@@ -29,7 +29,8 @@ E foi ai que me lembrei do pessoal da [3liz](https://3liz.org/), que produzem fe
 Utilizar o [SchemaSpy](https://schemaspy.org/) é realmente simples: basta fazer o download de um ficheiro .jar (logo, ter o Java instalado) e correr um comando relativamente longo, mas fácil de entender.
 
 ```bash
-java -jar schemaspy.jar -t mssql05 -dp C:/sqljdbc4-3.0.jar -db DATABASE -host SERVER -port 1433 -s dbo -u USER -p PASSWORD -o DIRECTORY
+java -jar schemaspy.jar -t mssql05 -dp C:/sqljdbc4-3.0.jar \
+-db DATABASE -host SERVER -port 1433 -s dbo -u USER -p PASSWORD -o DIRECTORY
 ```
 
 Fazendo um breakdown, do comando que está no site, temos que:
@@ -51,7 +52,9 @@ Se queremos ter o diagrama, temos de garantir que temos, p.e. o GraphViz instala
 No meu caso bastou replicar parte do comando e adaptá-lo:
 
 ```bash
-java -jar schemaspy-6.2.4.jar -t pgsql -dp postgresql-42.5.4.jar -db dev2 -host localhost -port 5432 -u user -p password -schemas schema_da_db -o ./doc
+java -jar schemaspy-6.2.4.jar -t pgsql -dp postgresql-42.5.4.jar \
+-db dev2 -host localhost -port 5432 -u user -p password \
+-schemas schema_da_db -o ./doc
 ```
 
 Por alguma razão, tive de usar o **-schemas** em vez de **-s**, mas funcionou perfeitamente e foi extremamente rápido.
